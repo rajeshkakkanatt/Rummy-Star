@@ -1,0 +1,5 @@
+{
+  "name": "Rummy Star v17.0.0",
+  "description": "A professional Rummy tournament manager with real-time scoring, automated winner detection, and a new Data & Backup system allowing session export/import for complete data safety.",
+  "requestFramePermissions": []
+}
